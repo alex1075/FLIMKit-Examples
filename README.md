@@ -7,7 +7,7 @@ This repoisitory contains example code for using FLIMKit, a software package for
 First download the FLIMKit software and install it on your computer. Then, clone this repository to access the example code.
 
 ```bash
-git clone
+git clone git@github.com:alex1075/FLIMKit-Examples.git
 ```
 
 Make sure you install the FLIMkit Python package and its dependencies and set up your Python environment to use Jupyter notebooks. 
